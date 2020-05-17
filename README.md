@@ -1,4 +1,4 @@
-# frontend_project1.github.io
+# ..github.io/project
 
   First frontend project with shecodeafrica
   Replicating fusion website
