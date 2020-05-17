@@ -1,2 +1,6 @@
 # frontend_project1.github.io
-# Fusion frontend task
+
+## First frontend project
+## Replicating fusion website
+
+### Team: Adunola and Peace (Group 1)
